@@ -7,8 +7,8 @@ Playing cards have two distinguishing  properties: rank and suit
 package Classes;
 public class CardProblem {
     //instance variables
-    String suit;
-    int rank;
+    private String suit;
+    private int rank;
 
     //getter and setter methods.
     public  int getRank(){
