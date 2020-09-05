@@ -13,13 +13,13 @@ package Classes;
 public class Employee {
 
     //instance variables
-    String firstName;
-    String lastName;
-    int salary;
-    int employeeid;
-    int employeeExp;
-    long mobileNo;
-    String email;
+    private String firstName;
+    private String lastName;
+    private int salary;
+    private int employeeid;
+    private int employeeExp;
+    private long mobileNo;
+    private String email;
 
     //getter and setter methods.
     public String getFirstName() {
